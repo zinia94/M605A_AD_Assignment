@@ -36,8 +36,3 @@ I have created stored procedures in my database to report the following:
 - A list of products in the fashion category that were sold last month.
 
 Additionally, I have provided my queries in the reports folder separately.
-
-------
-Sabera Jamila Zinia  
-Gisma University of Applied Sciences  
-ID: GH1026804
