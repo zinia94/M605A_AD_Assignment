@@ -1,7 +1,3 @@
-# M605A_AD_Assignment
-
-This project is done as the final assignment of the advanced database course.
-
 **Task: ABC company is an online shop that sells products around Europe. I am responsible for designing a database for their website. In particular, I am tasked with designing and developing a comprehensive database schema.** 
 ---
 
